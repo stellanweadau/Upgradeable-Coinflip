@@ -1,0 +1,1 @@
+Transparent and UUPS Proxy models are two methods for resolving proxy selector clashing problem. These two techniques are similar but they differ since the former has its logic's contract located in the proxy's contract whereas the latter owns it in the logic's contract.
